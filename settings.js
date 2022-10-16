@@ -20,7 +20,7 @@ global.APIKeys = {
 
 global.OWNER_REACT = '🧑🏻‍💻'
 
-global.REACT_NUMBER = '94767233346'
+global.REACT_NUMBER = '94718181282'
 
 //aumto functioner
 
@@ -54,7 +54,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 
-global.vcardowner = ['94767233346'] //ur owner number
+global.vcardowner = ['94718181282'] //ur owner number
 
 global.ownername = "SACHITHBOY" //ur owner name
 
@@ -66,9 +66,9 @@ global.location = "Sri lanka, Hambanthota, maththala" //ur location
 
 //bot bomdy 
 
-global.owner = ['94767233346']
+global.owner = ['94718181282']
 
-global.ownertag = '94767233346' //ur tag number
+global.ownertag = '94718181282' //ur tag number
 
 global.botname = 'SL-SACHIYA-MD-BETA' //ur bot name
 
@@ -98,7 +98,7 @@ global.thumb = fs.readFileSync("./https://i.imgur.com/XHhlqtK.jpeg") //ur thumb 
 
 //damtabase
 
-global.premium = ['94767233346'] //ur premium numbers
+global.premium = ['94718181282'] //ur premium numbers
 
 global.ntilinkytvid = []
 
